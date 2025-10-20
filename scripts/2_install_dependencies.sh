@@ -13,4 +13,4 @@ pip install uv
 # 3. 프로젝트 종속성 동기화
 uv sync
 
-pip install argon2-cffi
+pip install argon2-cffi dotenv boto3
