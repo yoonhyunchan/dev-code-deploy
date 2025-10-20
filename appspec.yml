@@ -65,9 +65,6 @@ hooks:
     - location: scripts/1_clean_before_install.sh
       timeout: 300
       runas: root
-    - location: 
-      timeout:
-      runas:
 # During the AfterInstall deployment lifecycle event, run the commands 
 #   in the script specified in "location".
   AfterInstall:
