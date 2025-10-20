@@ -1,5 +1,9 @@
 #! /usr/bin/env bash
 
+REPO_DIR="/opt/dev-code-deploy"
+
+cd $REPO_DIR
+
 set -e
 set -x
 

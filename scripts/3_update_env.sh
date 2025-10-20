@@ -1,5 +1,5 @@
 #!/bin/bash
-REPO_DIR="/opt/onboarding-backend"
+REPO_DIR="/opt/dev-code-deploy"
 
 cd $REPO_DIR
 
