@@ -1,4 +1,3 @@
-# Code Pipeline Test
 # FastAPI Project - Backend
 
 ## Requirements
