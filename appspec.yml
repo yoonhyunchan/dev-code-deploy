@@ -39,9 +39,6 @@ hooks:
     - location: scripts/1_clean_before_install.sh
       timeout: 300
       runas: root
-    - location: scripts/1_clean_before_install.sh
-      timeout: 300
-      runas: root
     - location: scripts/2_install_dependencies.sh   
       timeout: 300
       runas: root
