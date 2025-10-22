@@ -1,4 +1,3 @@
-Test
 # FastAPI Project - Backend
 
 ## Requirements
