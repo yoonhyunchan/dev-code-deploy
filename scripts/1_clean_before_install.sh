@@ -1,6 +1,6 @@
 #!/bin/bash
 # CodeDeploy가 파일을 복사하기 전에 이전 환경을 정리합니다.
-REPO_DIR="/opt/app"
+REPO_DIR="/opt/backend"
 
 cd $REPO_DIR
 

@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-REPO_DIR="/opt/app"
+REPO_DIR="/opt/backend"
 
 cd $REPO_DIR
 
